@@ -8,6 +8,6 @@ int main(){
     float max=0;
     cin >> n;
     float array[n];
-    cout << valMax(array[n], n);
+    cout << valMax(array, n);
   return 0;
 }
